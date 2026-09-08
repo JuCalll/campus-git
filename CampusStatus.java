@@ -1,5 +1,5 @@
 public class CampusStatus {
     public static void main(String[] args) {
-        System.out.println("Campus Digital disponible");
+        System.out.println("Campus Digital disponible - instancia A");
     }
 }
