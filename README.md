@@ -15,3 +15,5 @@ En este repositorio se puede encontrar el siguiente contenido:
 
 ¿Qué mensaje de commit considera más claro y por qué?
 - "feat: se incluyó el nombre la instancia dentro del mensaje de estado del proyecto", principalmente porque nombra la intención clara del cambio sin dar vueltas.
+
+Estado del Proyecto
