@@ -1,4 +1,4 @@
-# campus-git
+# Campus Digital - Componente CampusStatus
 
 Este es el repositorio de CampusStatus, del Campus Digital.
 
